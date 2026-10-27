@@ -1,6 +1,6 @@
 # FastAPI Production Starter
 
-Despliega tu API en minutos.
+Plantilla base para proyectos rápidos.
 
-Para soporte o despliegue personalizado, contacta al desarrollador:
-[Paga aquí para soporte](https://paypal.me/LucianoBenechCenoz)
+## Soporte al desarrollador
+Si este código te ahorró tiempo, considera una donación: [Donar $5 USD](https://paypal.me/LucianoBenechCenoz)
