@@ -1,2 +1,6 @@
-# fastapi-production-starter
-FastAPI + SQLite + Uvicorn Production Starter Template. Incluye integración con PayPal para servicios de despliegue rápido. Disponible para compra y personalización inmediata.
+# FastAPI Production Starter
+
+Despliega tu API en minutos.
+
+Para soporte o despliegue personalizado, contacta al desarrollador:
+[Paga aquí para soporte](https://paypal.me/LucianoBenechCenoz)
